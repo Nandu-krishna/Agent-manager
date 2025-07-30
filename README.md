@@ -75,8 +75,9 @@ JWT_SECRET=your_jwt_secret
 PORT=5000
 ```
 
-###👤 Author
+**👤 Author**
 Nandu Krishna
+
 GitHub: @Nandu-krishna
 
 
