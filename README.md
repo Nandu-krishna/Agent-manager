@@ -73,8 +73,11 @@ Create a `.env` file in the root of your backend directory with the following co
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 PORT=5000
-
+```
 
 ###👤 Author
 Nandu Krishna
 GitHub: @Nandu-krishna
+
+
+
